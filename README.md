@@ -1,26 +1,3 @@
-Zapněte si oznámení na ploše ze služby GaSOŠ Rokycany Mail.
-   OK  Ne, děkuji.
-
-1 z 585
-(bez předmětu)
-Doručená pošta
-Vašek, Václav <vasvac21@gasos-ro.cz>
-Přílohy
-9:52 (před 0 minutami)
-komu: mně
-
-Dejte si na tuto zprávu pozor
-Tato zpráva obsahuje jednu nebo více příloh, u nichž nelze zaručit, že jsou bezpečné. Nestahujte je, pokud odesílatele neznáte a nejste si jistí, že e-mail je pravý.
-
-Vypadá bezpečně
-
- Jedna příloha
-  •  Zkontrolováno Gmailem
-Tuto přílohu není možné stáhnout. Pokud tomuto e-mailu věříte a chcete přílohu stáhnout, klikněte v pruhu nahoře na „Vypadá bezpečně“.
-	
-Pozastavit oznámení na mobil, když používáte toto zařízení
-Pokud chcete pozastavit mobilní oznámení z Chatu v době, kdy jste aktivní na tomto zařízení, povolte prohlížeči vaši aktivitu rozpoznávat. Klikněte na Pokračovat, a až se zobrazí výzva, klikněte na Povolit.
-
 <!DOCTYPE html>
 <html lang="cs">
   <head>
